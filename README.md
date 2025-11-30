@@ -173,11 +173,5 @@ Para personalizar o comportamento do Digital Twin, edite o arquivo `backend/me.t
 - As conversas são salvas localmente na pasta `memory/`
 - Configure `CORS_ORIGINS` adequadamente para produção
 
-## 📄 Licença
 
-Este projeto é parte de um curso sobre AI in Production.
-
-## 🤝 Contribuindo
-
-Este é um projeto educacional. Sinta-se à vontade para experimentar e modificar!
 
